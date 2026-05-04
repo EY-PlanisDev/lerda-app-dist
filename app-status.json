@@ -10,11 +10,11 @@
     },
     "versions": {
         "android": {
-            "minVersion": "1.4.7",
+            "minVersion": "1.4.6",
             "storeUrl": "https://play.google.com/store/apps/details?id=com.planis_eddy.LerdaMobile"
         },
         "ios": {
-            "minVersion": "1.4.7",
+            "minVersion": "1.4.6",
             "storeUrl": "https://apps.apple.com/fr/app/lerda-shop/id6747896084"
         }
     }
