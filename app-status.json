@@ -1,3 +1,21 @@
 {
-  "status": { "maintenance": false }
+    "status": {
+        "maintenance": false,
+        "message": "Maintenance en cours, l'\u00e9quipe Lerda Mobile revient vite !",
+        "updatedAt": "2026-05-04T14:42:14+00:00"
+    },
+    "network": {
+        "api_url": "https://www.shop.lerda.fr",
+        "api_backup_url": "https://prise-de-commande-deployment.lerda.fr"
+    },
+    "versions": {
+        "android": {
+            "minVersion": "1.4.6",
+            "storeUrl": "https://play.google.com/store/apps/details?id=com.planis_eddy.LerdaMobile"
+        },
+        "ios": {
+            "minVersion": "1.4.6",
+            "storeUrl": "https://apps.apple.com/fr/app/lerda-shop/id6747896084"
+        }
+    }
 }
