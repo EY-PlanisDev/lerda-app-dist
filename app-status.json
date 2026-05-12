@@ -4,6 +4,13 @@
         "message": "Maintenance en cours, l'\u00e9quipe Lerda Mobile revient vite !",
         "updatedAt": "2026-05-04T14:42:14+00:00"
     },
+       "announcement": {
+        "enabled": true,
+        "title": "INFORMATION IMPORTANTE",
+        "message": "⚠️ Nous serons fermés le jeudi 14 mai. Pensez à anticiper vos commandes !",
+        "backgroundColor": "#C30F2E",
+        "textColor": "#FFFFFF"
+    },
     "network": {
         "api_url": "https://www.shop.lerda.fr",
         "api_backup_url": "https://prise-de-commande-deployment.lerda.fr"
