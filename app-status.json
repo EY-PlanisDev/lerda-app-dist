@@ -5,10 +5,10 @@
         "updatedAt": "2026-05-04T14:42:14+00:00"
     },
        "announcement": {
-        "enabled": false,
-        "title": "INFORMATION IMPORTANTE",
-        "message": "⚠️ Nous serons fermés le jeudi 14 mai. Pensez à anticiper vos commandes !",
-        "backgroundColor": "#C30F2E",
+        "enabled": true,
+        "title": "INFORMATION",
+        "message": "🚚 Nous assurons les livraisons dans vos établissements ce mardi 14 juillet.",
+        "backgroundColor": "#2E7D32",
         "textColor": "#FFFFFF"
     },
     "network": {
