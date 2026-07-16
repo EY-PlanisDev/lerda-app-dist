@@ -5,7 +5,7 @@
         "updatedAt": "2026-05-04T14:42:14+00:00"
     },
     "announcement": {
-        "enabled": true,
+        "enabled": false,
         "title": "INFORMATION",
         "message": "🚚 Nous assurons les livraisons dans vos établissements ce mardi 14 juillet.",
         "backgroundColor": "#2E7D32",
