@@ -13,7 +13,7 @@
     },
     "network": {
         "api_url": "https://www.shop.lerda.fr",
-        "api_backup_url": "https://prise-de-commande-deployment.lerda.fr"
+        "api_backup_url": "https://prise-de-commande-dev.lerda.fr"
     },
     "versions": {
         "android": {
